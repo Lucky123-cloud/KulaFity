@@ -1,28 +1,42 @@
-🍽️ Grilli Restaurant
-Welcome to Grilli Restaurant, your one-stop solution for making reservations, booking meals, and ordering delicious food from the comfort of your home.
+# 🍽️ Grilli Restaurant
 
-Check out the live demo here: Grilli Restaurant
+Welcome to **Grilli Restaurant**, your one-stop solution for making reservations, booking meals, and ordering delicious food from the comfort of your home.
 
-📜 Features
-Table Reservations: Effortlessly book a table for any occasion.
-Book Your Meal: Pre-order your meal before your reservation for a seamless experience.
-Order Food: Directly order your favorite dishes for takeaway or home delivery.
-🔧 Technologies Used
-HTML5 and CSS3: For responsive design and stunning visuals.
-JavaScript: For dynamic interactions and smooth functionality.
-GitHub Pages: For hosting and easy access.
-🚀 Getting Started Locally
+Check out the live demo here: [Grilli Restaurant](https://lucky123-cloud.github.io/KulaFity/)
+
+---
+
+## 📜 Features
+
+- **Table Reservations**: Effortlessly book a table for any occasion.
+- **Book Your Meal**: Pre-order your meal before your reservation for a seamless experience.
+- **Order Food**: Directly order your favorite dishes for takeaway or home delivery.
+
+---
+
+## 🔧 Technologies Used
+
+- **HTML5** and **CSS3**: For responsive design and stunning visuals.
+- **JavaScript**: For dynamic interactions and smooth functionality.
+- **GitHub Pages**: For hosting and easy access.
+
+---
+
+## 🚀 Getting Started Locally
+
 To run this project locally, follow the steps below:
 
-Prerequisites
-Ensure you have Git installed on your computer.
+### Prerequisites
 
-Installation
-Clone the repository to your local machine:
+Ensure you have **Git** installed on your computer.
 
-bash
-Copy code
-git clone https://github.com/lucky123-cloud/KulaFity.git
+### Installation
+
+1. **Clone the repository** to your local machine:
+
+   ```bash
+   git clone https://github.com/lucky123-cloud/KulaFity.git
+
 Navigate to the project directory:
 
 bash
@@ -59,3 +73,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions, feel free to reach out to us at grilli.restaurant@example.com.
 
 🔗 Visit Grilli Restaurant Live
+python
